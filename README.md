@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eduardo P. and I'm a PHP Jr. Developer, from Cianorte-PR</p>
+<p align="left">My name is Eduardo P. and I'm a PHP Jr. Developer, from Cianorte-PR!!</p>
 
 ###
 
