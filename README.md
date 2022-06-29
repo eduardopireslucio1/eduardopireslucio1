@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning PHP and Javascript with a framework Laravel<br></p>
+<p align="left"> I'm currently programming with PHP and Javascript with a framework Laravell<br></p>
 
 ###
 
