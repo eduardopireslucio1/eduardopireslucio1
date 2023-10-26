@@ -27,4 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
+</br>
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/eduardopireslucio1/count.svg /></p>
 ###
