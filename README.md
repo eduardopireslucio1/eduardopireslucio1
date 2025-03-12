@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eduardo Pires Lucio, born in Brazil 🇧🇷. I work mainly with PHP, but have projects in NodeJS, Python, TypeScript and VueJS.</p>
+<p align="left">My name is Eduardo Pires Lucio, born in Brazil 🇧🇷. I work mainly with Node.js, Angular, and MongoDB, but I also have experience with PHP, Python and Vue.js..</p>
 
 ###
 
@@ -17,6 +17,17 @@
 <h2 align="left">Experience with:</h2>
 
 <div align="left">
+
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular">
+
+  <!-- MongoDB -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
+
+  <!-- Mongoose -->
+  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge" alt="Mongoose">
+
+  <!-- NestJS -->
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS">
 
   <!-- PHP -->
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
