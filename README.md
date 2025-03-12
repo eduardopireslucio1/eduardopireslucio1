@@ -59,6 +59,14 @@
   <!-- Amazon AWS -->
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="Amazon AWS">
 
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQL">
+
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
+
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
+
 </div>
 
 </br>
