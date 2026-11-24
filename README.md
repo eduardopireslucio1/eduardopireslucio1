@@ -1,6 +1,6 @@
 <img src="assets/hero.webp" alt="Eduardo Pires Lucio, a portrait made of a few thousand bits" width="100%">
 
-<img src="assets/contributions.svg" alt="2441 contributions in 2026, one bit per day" width="100%">
+<img src="assets/contributions.svg" alt="2461 contributions in 2026, one bit per day" width="100%">
 
 ```console
 $ cat now
